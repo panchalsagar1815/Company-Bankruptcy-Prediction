@@ -1,7 +1,7 @@
 # Company-Bankruptcy-Prediction
 
 
-Project Title: Company Bankruptcy Predict
+
 The "Company Bankruptcy Prediction" project is a data-driven initiative designed to enhance our ability to assess the financial stability and solvency of businesses. Leveraging critical financial metrics such as current assets, net value, growth rate, liability, equity, and more, this project aims to develop a predictive model that can identify companies at risk of bankruptcy.
 
 By analyzing historical financial data, our project seeks to create a robust predictive framework that will enable stakeholders, including investors, lenders, and business analysts, to make informed decisions regarding their financial relationships with companies. The model will provide early warnings of potential bankruptcy risks, allowing for proactive measures to mitigate financial losses and optimize resource allocation.
